@@ -1,2 +1,2 @@
 # switch-case-sale
-Zadanie Switch sprzedaż
+Zadanie JS Switch sprzedaż
