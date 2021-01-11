@@ -25,4 +25,4 @@ switch(n){
 default:
     console.log("Dzisiaj nie mamy promocji!");
     break;
-}
+};
